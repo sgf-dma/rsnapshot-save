@@ -1,0 +1,2 @@
+DPkg::Pre-Invoke       { "/usr/local/sbin/rsnapshot-save-exe"; };
+RPM::Pre-Invoke       { "/usr/local/sbin/rsnapshot-save-exe"; };
